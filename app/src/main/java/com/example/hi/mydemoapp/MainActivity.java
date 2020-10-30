@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
 
         //set layout here
         setContentView(R.layout.activity_main);
+/*vikas*/
     }
 }
