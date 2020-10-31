@@ -8,13 +8,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //set layout here
         setContentView(R.layout.activity_main);
-        /*vikas*/
-        /*adarsh*/
-        showAdarsh();
-    }
-
-    private void showAdarsh() {
     }
 }
