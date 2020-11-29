@@ -10,5 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         /*vikas malviya*/
+        /*mobile number */
+        /*address idre*/
     }
 }
